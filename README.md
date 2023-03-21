@@ -20,4 +20,5 @@ try_.theta()
 ```
 
 Also you can call other functions similarly as above.
+For calculating historical volatility, you need to be super careful about whether `price_list` is in day/month or year.
 
